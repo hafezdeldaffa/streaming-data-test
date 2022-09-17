@@ -1,7 +1,7 @@
 package org.example;
 
 public class Trailer extends Record{
-  String trailer;
+  protected String trailer;
 
   public String getTrailer() {
     return trailer;

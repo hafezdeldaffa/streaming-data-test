@@ -1,7 +1,7 @@
 package org.example;
 
 public class Date extends Record{
-  String date;
+  protected String date;
 
   public String getDate() {
     return date;
