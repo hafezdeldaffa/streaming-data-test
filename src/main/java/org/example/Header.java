@@ -1,7 +1,7 @@
 package org.example;
 
 public class Header extends Record {
-  protected String header;
+  private String header;
 
   public String getHeader() {
     return header;

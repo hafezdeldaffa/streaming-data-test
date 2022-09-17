@@ -3,7 +3,7 @@ package org.example;
 import java.util.List;
 
 public class Data extends Record{
-  protected List<String> data;
+  private List<String> data;
 
   public List<String> getData() {
     return data;

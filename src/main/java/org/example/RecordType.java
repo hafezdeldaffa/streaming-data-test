@@ -1,7 +1,7 @@
 package org.example;
 
 public class RecordType extends Record {
-  protected int recordType;
+  private int recordType;
 
   public int getRecordType() {
     return recordType;

@@ -1,7 +1,7 @@
 package org.example;
 
 public class SequenceNumber extends Record{
-  protected Integer sequenceNumber;
+  private Integer sequenceNumber;
 
   public Integer getSequenceNumber() {
     return sequenceNumber;

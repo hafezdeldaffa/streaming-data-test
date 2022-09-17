@@ -1,7 +1,7 @@
 package org.example;
 
 public class SendingTime extends Record{
-  protected String sendingTime;
+  private String sendingTime;
 
   public String getSendingTime() {
     return sendingTime;
